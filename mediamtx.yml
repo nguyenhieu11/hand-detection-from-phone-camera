@@ -1,0 +1,4 @@
+# MediaMTX minimal config — allow any RTSP publisher
+paths:
+  "~^.*$":   # match any path name
+    source: publisher
